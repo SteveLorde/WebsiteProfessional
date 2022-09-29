@@ -1,0 +1,80 @@
+body {
+    margin: 0%;
+}
+.Head-Container {
+    background-color: #1F2937;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+nav {
+    background-color: blue;
+    padding: 2px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex: auto;
+}
+
+a {
+    color: white;
+    margin: 5px;
+}
+
+.Main {
+    border-style: solid;
+    border-width: 10px;
+    color: white;
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.image-1 {
+    width: 50%;
+    flex: auto;
+}
+.Main-Typo {
+    border-style: solid;
+    border-width: 5px;
+    border-color: aqua;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
+
+.button1 {
+    border-style: solid;
+    border-width: 5px;
+    margin: 0.5em;
+    padding: 1em;
+    display: flex;
+
+}
+.sign-up {
+    width: auto;
+    height: auto;
+    flex: 1;
+}
+.LogoName{
+    color: white;
+}
+.Header-Links {
+    border: 5px red;
+}
+
+.Middle-Container {
+    background-color: #ffffff;
+    height: 25em;
+    display: flex;
+}
+
+.Bottom-Container {
+    background-color: #1F2937;
+    height: 25em;
+    display: flex;
+}
