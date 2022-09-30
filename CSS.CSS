@@ -10,7 +10,6 @@ body {
 }
 
 nav {
-    background-color: blue;
     padding: 2px;
     display: flex;
     justify-content: space-evenly;
